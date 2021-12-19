@@ -12,8 +12,8 @@ PreProcessing/resource_data
 PreProcessing/tourAPI_photogallery/__pycache__
 PreProcessing/tourAPI_photogallery/.pytest_cache
 
-PreProcessing/selenium_crawling/__pycache__
-PreProcessing/selenium_crawling/.pytest_cache
+# PreProcessing/selenium_crawling/__pycache__
+# PreProcessing/selenium_crawling/.pytest_cache
 PreProcessing/selenium_crawling/chromedriver.exe
 
 PreProcessing/selenium_crawling_instagram
